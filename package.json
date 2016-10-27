@@ -1,0 +1,23 @@
+{
+  "name": "get-dates",
+  "version": "0.0.1",
+  "description": "NLP date parser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gobaldia/get-dates.git"
+  },
+  "author": "Gabriel Obaldía (https://github.com/gobaldia)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gobaldia/get-dates/issues"
+  },
+  "homepage": "https://github.com/gobaldia/get-dates#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.1.2"
+  }
+}
